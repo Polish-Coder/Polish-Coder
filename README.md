@@ -7,7 +7,7 @@
 
 - 🚗 **Speed Legends** developer
 
-- ▶ [Youtuber](https://www.youtube.com/c/PolishCoder) 1.5k+ subscribers
+- ▶ [Youtuber](https://www.youtube.com/c/PolishCoder) 1.9k+ subscribers
 
 #### Languages and Technologies
 
