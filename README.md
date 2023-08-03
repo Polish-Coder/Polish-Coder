@@ -5,7 +5,7 @@
 
 - 💼 CEO of [Polygons Games Studio](https://github.com/Polygons-Games-Studio)
 
-- 🚗 **Speed Legends** developer
+- 🚗 **REVVED UP** game developer
 
 - ▶ [Youtuber](https://www.youtube.com/c/PolishCoder) 2k+ subscribers
 
