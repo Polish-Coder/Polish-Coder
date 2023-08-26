@@ -24,7 +24,8 @@
 
 <p align="left">
 <a href="https://www.youtube.com/c/polishcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="polishcoder" height="30" width="40" /></a>
-<a href="https://discord.gg/fVtpv9wgM9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fVtpv9wgM9" height="30" width="40" /></a>
+<a href="https://discord.gg/fVtpv9wgM9" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/997435322860306563/1144944349180874842/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="fVtpv9wgM9" height="30" width="40" /></a>
 <a href="https://twitter.com/polygons_games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polygons_games" height="30" width="40" /></a>
 <a href="https://instagram.com/polygonsgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polygonsgames" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/PolygonsGames" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1200px-Reddit_Logo_Icon.svg.png" alt="polygonsgames" height="30" width="30" /></a>
 </p>
