@@ -35,7 +35,10 @@
 
 #### Statistics
 
-<img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=polish-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="polish-coder" /> <img align="center" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=polish-coder&theme=tokyonight" alt="polish-coder" />
+<p>
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=polish-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="polish-coder"/>
+  <img align="center" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=polish-coder&theme=tokyonight" alt="polish-coder"/>
+</p>
 
 ----------
 
