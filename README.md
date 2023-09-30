@@ -25,6 +25,8 @@
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-943ab0?logo=dotnet&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5dbf47?logo=node.js&logoColor=white">
+  <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-2fadcc?logo=discord&logoColor=white">
+  <img alt="Flet" src="https://img.shields.io/badge/Flet-e83c76?logo=python&logoColor=white">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-7cd6f7?logo=electron&logoColor=black">
 </p>
 
