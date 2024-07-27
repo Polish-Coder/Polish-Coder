@@ -48,7 +48,7 @@
 
 <p>
 <a href="https://youtube.com/c/polishcoder" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
-<a href="https://twitter.com/polygons_games" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/polygons_games" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://instagram.com/polygonsgames" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-db3540?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://reddit.com/user/PolygonsGames" target="blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://discord.gg/fVtpv9wgM9" target="blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
